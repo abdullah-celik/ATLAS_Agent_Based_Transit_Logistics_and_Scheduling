@@ -1,7 +1,7 @@
 # PUBLIC_TRANSPORT_MULTI_AGENT_SOLUTION
 # Public Transport Multi-Agent Solution
 
-This project is a multi-agent system designed to handle public transport requests. It consists of user agents that collect travel requests from users and an orchestrator that processes these requests to calculate optimized travel routes.
+This project is a multi-agent system designed to handle public transport requests for IBEC challange organized by BEST having Reply as a sponsor. It consists of user agents that collect travel requests from users and an orchestrator that processes these requests to calculate optimized travel routes.
 
 ## Components
 
